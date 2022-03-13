@@ -5,6 +5,7 @@ yarn install --frozen-lockfile
 
 export BC_MINER_KEY="0x62b61f0b513c2fa26b28026219604947d3e0e492"
 export BC_NETWORK="main"
+export BC_GRPC_MINER=true
 export BC_FORCE_MINE=true
 export BC_GRPC_MINER_ADDRESS=10.7.0.1:50052
 export BC_MINER_WORKERS=5

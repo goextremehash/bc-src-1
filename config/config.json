@@ -32,7 +32,7 @@
     "port": 50051
   },
   "persistence": {
-    "path": "/data/vol-bcnode2-db/"
+    "path": "/data/vol-bcnode2-db"
   },
   "p2p": {
     "blacklist": {
